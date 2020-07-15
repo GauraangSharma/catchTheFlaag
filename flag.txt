@@ -1,0 +1,4 @@
+flag{Oh_y0u_f0und_m3}
+
+PS: There is another flag hidden somewhere here.
+Keep looking ;)
